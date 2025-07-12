@@ -1,6 +1,7 @@
-This is an example for notification on flutter
-package used: awesome_notifications
-emulator: android api 36 x86_64
+- This is an example for notification on flutter
+
+- package used: awesome_notifications
+- emulator: android api 36 x86_64
 
 you can focus on these files:
 - lib\main.dart
