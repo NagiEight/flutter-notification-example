@@ -1,4 +1,3 @@
-<img width="390" height="895" alt="{E3995DF0-EC51-49A1-B5BB-9427F1B238DE}" src="https://github.com/user-attachments/assets/3e3fe1be-d7b6-43b3-bd37-eb276f298475" /># flutter-notification-example
 flutter notification using awesome_notifications package
 this is the whole project but you can focus on these files:
 
