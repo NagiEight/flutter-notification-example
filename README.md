@@ -1,3 +1,4 @@
+#flutter-notification-example
 - This is an example for notification on flutter
 
 - package used: awesome_notifications
